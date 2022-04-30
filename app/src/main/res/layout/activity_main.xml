@@ -14,9 +14,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ZXCGUL"
-        android:textSize="30sp"
-        />
+        android:text="ZXCGHOUL"
+        android:textSize="30sp" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

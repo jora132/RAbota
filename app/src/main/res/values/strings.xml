@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="текст1">спасибо</string>
+    <string name="текст2">Будь здоров</string>
+    <string name="текст3">Апчи</string>
+    <string name="текст4">Не будь лапшой</string>
+    <string name="текст5">АПЧИ!</string>
+    <string name="текст7">Я крутой)</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+
 </resources>
